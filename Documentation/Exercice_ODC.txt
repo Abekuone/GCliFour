@@ -1,0 +1,24 @@
+Enregistrer des dépenses : Permettre aux utilisateurs d'enregistrer leurs dépenses quotidiennes (montant, date, catégorie(connexion, credit téléphonique, alimentation, loyer, essence).
+
+Afficher les dépenses : permettre à l'utilisateur de voir toutes ses dépenses enregistrées sous forme de liste (Catégorie, montant, date).
+
+Statistiques : On peut présenter quelques statistiques des dépenses par catégorie, l'évolution, les tendances de dépenses.
+
+Filtres et recherche : On peut mettre une option de recherche pour que l'utilisateur recherche les dépenses en saisissant la date ou la catégorie pour afficher.
+
+Budget : Faire en sorte que l'utilisateur puisse définir un budget mensuel et on peut afficher des alertes si les dépenses approchent ou dépassent ce budget.
+
+Sauvegarde sur Drive : permettre aux utilisateurs de créer un compte et de se connecter pour sauvegarder leurs données sur drive
+
+Impression et exportation : permettre aux utilisateurs d'imprimer leurs dépenses sous forme de fichier CSV ou PDF.
+
+Notifications : notifier les utilisateurs de saisir leurs dépenses quotidiennement les soirs.
+
+Synchronisation avec comptes bancaires : Dans les perspectives si on a l'API Coris ou Ecobank par exemple on peut essayer de permettre à l'utilisateur de synchroniser leurs transactions financières avec l'application. Mais ça c'est dans les perpectives
+
+
+Comme c'est un exercice on peut faire les fonctionnalités de base.
+
+
+
+SOME Armel

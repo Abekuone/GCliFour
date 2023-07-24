@@ -1,0 +1,22 @@
+GCliFour : Application de Gestion de Client et de fourninisseurs
+
+L'application a une partie cliente qui est développée en Angular et une partie serveur qui est développée en Laravel.
+
+Voici comment nous avons procédé :
+
+Projet Angular (Côté client) :
+Le projet Angular est responsable de l'interface utilisateur et de l'interaction avec les utilisateurs.
+Nous avons développé la partie cliente de l'application en utilisant Angular, HTML, CSS et JavaScript/TypeScript.
+Angular est utilisé pour gérer l'affichage des pages, les formulaires, les interactions utilisateur, etc.
+
+Projet Laravel (Côté serveur) :
+Le projet Laravel est responsable de la gestion des données et de la logique métier de l'application.
+Nous avons développé la partie serveur de l'application en utilisant le framework Laravel qui est écrit en PHP.
+Laravel est utilisé pour gérer les requêtes de l'application, les opérations sur la base de données (MySQL), l'authentification des utilisateurs, etc.
+
+
+En résumé, nous avons deux projets distincts :
+
+Un projet Angular pour la partie cliente de l'application (l'interface utilisateur).
+Un projet Laravel pour la partie serveur de l'application (la gestion des données et la logique métier).
+Le projet Angular (Côté client) et le projet Laravel (Côté serveur) sont intégrés ensemble pour former l'application complète. Le projet Angular communiquera avec le projet Laravel via des API (Application Programming Interface) pour obtenir ou envoyer des données vers la base de données.

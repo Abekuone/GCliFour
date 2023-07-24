@@ -1,0 +1,12 @@
+Description du projet :
+
+Nous devons développer une application web permettant aux utilisateurs de se connecter en tant qu'administrateur ou client. Les fonctionnalités à mettre en place comprennent :
+
+• la gestion des comptes utilisateurs (uniquement accessible à l’administrateur) devant permettre la création de nouveaux comptes administrateurs ou clients.
+
+• La gestion de la base de données clients devant permettre à un utilisateur de profil client d’avoir sa base de fournisseur (nom,prenom,telephone,mail,photo) enregistré sur l’application. Cela comprend les fonctionnalités d'import et d'export de la liste des fournisseurs via des fichiers Excel ou CSV. Nous devons mettre en place les fonctionnalités nécessaires pour importer une liste de clients à partir d'un fichier et exporter la liste des clients existants vers un fichier externe.
+
+• La personnalisaEon de leur profil en ajoutant une photo de profil et en téléchargeant un fichier PDF (CNIB/Passport). Nous devons mettre en place les fonctionnalités nécessaires pour permettre aux clients de modifier leur profil et d'effectuer ces 
+actions
+
+Outils et technologies recommandés : pour l'application web, nous devons utiliser des langages de programmation tels que php, HTML, CSS, bootstrap, JavaScript et des frameworks comme Angular et laravel. Le design pattern repository est utilisé afin de simplifier l’organisation du code.
